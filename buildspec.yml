@@ -12,4 +12,4 @@ phases:
 artifacts:
    files:
       - '**/*.html'
-   base-directory: aws-static-website-example
+   base-directory: base-folder
