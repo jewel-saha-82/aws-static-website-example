@@ -1,15 +1,8 @@
 version: 0.2
 
-phases:
-   install:
-      runtime-versions:
-         nodejs: 12
-         
-   build:
-      commands:
-         - echo Hi! everyone.
+
          
 artifacts:
    files:
-      - 'base-folder/**/*.html'
+      - '**/*.html'
    base-directory: base-folder
