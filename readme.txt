@@ -1,0 +1,1 @@
+http://static-website-1234.s3-website.ap-south-1.amazonaws.com/aws-static-website-example/
