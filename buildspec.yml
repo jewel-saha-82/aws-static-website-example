@@ -11,5 +11,5 @@ phases:
          
 artifacts:
    files:
-      - '**/*.html'
+      - 'base-folder/**/*.html'
    base-directory: base-folder
